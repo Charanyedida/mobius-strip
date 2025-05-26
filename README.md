@@ -231,10 +231,6 @@ This implementation is ideal for:
 - Numerical integration accuracy depends on scipy version
 - 3D rendering performance varies with graphics capabilities
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🔗 References
 
 - Differential Geometry of Curves and Surfaces by Manfredo P. do Carmo
